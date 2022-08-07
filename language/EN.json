@@ -40,7 +40,15 @@
             "KICK" : "```Remove from Group...```",
             "ADD" : "```Add Group...```",
             "PROMOTE" : "```Promote as Group admin```",
-            "DEMOTE" : "```Demote as Group member```"
+            "DEMOTE" : "```Demote as Group member```",
+            "G_MUTE" : "```🔇 SUCCESS GROUP CLOSE```",
+            "G_UNMUTE" :"``` 🔊 SUCCESS GROUP OPEN ```",
+            "G_INFOON" :"*✅ SUCCESS CHANGE EDIT INFO OPEN.*",
+            "G_INFOOFF" : "*.✅ SUCCESS CHNAGE EDIT INFO CLOSE.*",
+            "DELETE": "*🧚💬 THIS MASSAGE IS NOT SEND BY BOT.*",
+            "BC_GC" : "*🧚💬 PLEASE GIVE ME A MASSAGE*\n",
+            "M_REPLY" :"*🧚💬 PLEASE REPLY MASSAGE.*",
+            "EXAMPLE" : "*🧚💬 EXAMPLE :*"
         }
     }
 }
