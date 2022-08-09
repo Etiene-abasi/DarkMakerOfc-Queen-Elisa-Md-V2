@@ -23,12 +23,12 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 
 ##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ]()
 # 
-### FORK QUEEN ELISA REPO
+### FORK QUEEN ELISA V2 REPO
  <p align="left">
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]( )
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
 # 
 ##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FOR DEPLOY YOUR BOT
             https://heroku.com/deploy?template=
