@@ -24,7 +24,8 @@
 
  "ALIVE_MESSAGE" :{
   "description" : "your alive massage",
-  "requred" : false
+  "requred" : false,
+"value" : "default"
   },
 
 "CAPTION" :{
