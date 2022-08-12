@@ -35,7 +35,7 @@
   
   "SEND_WELCOME_MASSAGE" :{
   "description" : "Send Welcome And Good bye message [ true / false]",
-  "requred" : false,
+  "requred" : true,
     "value" : "false"
   },
 
@@ -83,14 +83,12 @@
 
   "WELCOME_MSG" :{
   "description" : "welcome massage",
-  "requred" : false,
-  "value" :""
+  "requred" : false
   },
 
   "GOODBYE_MSG" :{
   "description" : "welcome massage",
-  "requred" : false,
-  "value" :""
+  "requred" : false
   },
 
   "SUCCESS_MSG" :{
@@ -112,9 +110,9 @@
   },
 
   "EXTRA_API" :{
-  "description" : "Api get from  this web site fro fb downloader 2 and ytshort downloader",
+  "description" : "Api get from  https://violetics.pw this web site fro fb downloader 2 and ytshort downloader",
   "requred" : true,
-  "value" :"    "
+  "value" :"Api get on https://violetics.pw login and put it no need now"
   },
 
   "PREFA" :{
