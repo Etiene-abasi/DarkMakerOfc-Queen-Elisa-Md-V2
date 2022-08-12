@@ -18,13 +18,13 @@
 
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
-  "requred" : false,
+  "required" : false,
   "value" :"94715166712"
   },
 
  "ALIVE_MESSAGE" :{
   "description" : "your alive massage",
-  "requred" : false,
+  "required" : false,
 "value" : "default"
   },
 
@@ -35,7 +35,7 @@
   
   "SEND_WELCOME_MASSAGE" :{
   "description" : "Send Welcome And Good bye message [ true / false]",
-  "requred" : true,
+  "required" : true,
     "value" : "false"
   },
 
@@ -83,12 +83,12 @@
 
   "WELCOME_MSG" :{
   "description" : "welcome massage",
-  "requred" : false
+  "required" : false
   },
 
   "GOODBYE_MSG" :{
   "description" : "welcome massage",
-  "requred" : false
+  "required" : false
   },
 
   "SUCCESS_MSG" :{
@@ -111,7 +111,7 @@
 
   "EXTRA_API" :{
   "description" : "Api get from  https://violetics.pw this web site fro fb downloader 2 and ytshort downloader",
-  "requred" : true,
+  "required" : true,
   "value" :"Api get on https://violetics.pw login and put it no need now"
   },
 
@@ -123,7 +123,7 @@
 
   "AUTO_BIO" :{
   "description" : "if you want show time and date on your whatsapp bio",
-  "requred" : true,
+  "required" : true,
   "value" :"on"
   },
 
@@ -154,8 +154,8 @@
 
 "INBOX_BLOCK_MSG" :{
   "description" : "INBOX USER BLOCK MASSAGE",
-  "requred" : true,
-  "value" :"false"
+  "required" : true,
+  "value" :"*INBOX BLOCK ACTIVATE BY BOT OWNER*"
   }
   },
 
