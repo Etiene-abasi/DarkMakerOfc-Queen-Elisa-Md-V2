@@ -199,8 +199,13 @@
   "required" : true,
   "value" :"📤 UPLOADING YOUR SONG"
   },
-  "VOICE_REPLY" :{
+ "VOICE_REPLY" :{
   "description" : "REPLY GIRL VOICE",
+  "required" : true,
+  "value" :"true"
+  },
+   "NUMBER_212_BLOCK" :{
+  "description" : "BLOCK +212 INBOX MASSAGE SENDERS",
   "required" : true,
   "value" :"true"
   }
