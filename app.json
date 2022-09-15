@@ -199,20 +199,10 @@
   "required" : true,
   "value" :"📤 UPLOADING YOUR SONG"
   },
- "KICK_MASSAGE" :{
-  "description" : "KICK MASSAGE",
+  "VOICE_REPLY" :{
+  "description" : "REPLY GIRL VOICE",
   "required" : true,
-  "value" :"BYE BYE !"
-  },
- "ADD_MASSAGE" :{
-  "description" : "ADD MASSAGE",
-  "required" : true,
-  "value" :"HELLO I AM ADD YOU"
-  },
-  "LINK_KICK_MASSAGE" :{
-  "description" : "ADD MASSAGE",
-  "required" : true,
-  "value" :"link not alowd"
+  "value" :"true"
   }
   
   },
