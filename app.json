@@ -184,7 +184,7 @@
   "required" : true,
   "value" :"*INBOX BLOCK ACTIVATE BY BOT OWNER*"
   },
-"BLOCK_CALL" :{
+"BLOCK_CALLERS" :{
   "description" : "INBOX USER BLOCK CALLS",
   "required" : true,
   "value" :"false"
