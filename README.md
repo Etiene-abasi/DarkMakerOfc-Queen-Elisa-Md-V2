@@ -1,5 +1,6 @@
-<i>𝚀𝚞𝚎𝚎𝚗 𝙴𝚕𝚒𝚜𝚊 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝙱𝚘𝚝</i>
-
+<p align="center"> 
+<b>༺════════════[👸]═════════════༻</b>
+</p>
 <p align="center">
 <img src="https://i.imgur.com/u956kdR.jpeg" width="300" height="300"/>
 </p>
