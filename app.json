@@ -1,8 +1,8 @@
 {
-  "name": "QUEEN ELISA BOT 2.2.0 V",
+  "name": "QUEEN ELISA BOT 2.3.0 V",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2",
+  "logo": "https://telegra.ph/file/30e4c947775ac2a0d2897.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
   "env": {
@@ -56,31 +56,31 @@
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"𝖰𝖴𝖤𝖤𝖭 𝖤𝖫𝖨𝖲𝖠 𝖵𝟤"
   },
 
   "OWNER_NAME" :{
   "description" : "YOUR NAME",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"ᴍʀ ɴɪᴍᴀ ( ᴅᴀʀᴋ ᴍᴀᴋᴇʀ )"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝟮.𝟯.𝟬 𝗩"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "STICKER AUTHOR NAME",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"🅝🅘🅜🅐 🅞🅕🅒"
   },
 
   "ALIVE_LOGO" :{
   "description" : "YOUR BOT ALIVE LOGO GET YOUR LINK UPLOAD imgbb.com WEB SITE ",
   "requred" : true,
-  "value" :"https://telegra.ph/file/1a2dee71baa975091620d.jpg"
+  "value" :"https://telegra.ph/file/b3f17c16eedf99731a52d.jpg"
   },
 
   "WELCOME_MSG" :{
@@ -114,9 +114,9 @@
   },
 
   "EXTRA_API" :{
-  "description" : "Api get from  https://violetics.pw this web site fro fb downloader 2 and ytshort downloader",
+  "description" : "THIS IS GET ON SUPPORT GROUP",
   "required" : true,
-  "value" :"Api get on https://violetics.pw login and put it no need now"
+  "value" :"මේක සපෝට් එකෙන් ඉල්ල ගන්න"
   },
 
   "PREFA" :{
@@ -204,10 +204,30 @@
   "required" : true,
   "value" :"true"
   },
+   "REMOVE_BG_API" :{
+  "description" : "API KEY GET ON removebg.com SITE",
+  "required" : true,
+  "value" :"true"
+  },
+ "MENU_IMOJI" :{
+  "description" : "YOUR MENU AND DESC IMOJI",
+  "required" : true,
+  "value" :"👸|ℹ️"
+  },
+   "TIME_ZONE" :{
+  "description" : "YOUR TIME ZONE",
+  "required" : true,
+  "value" :"Asia/Colombo"
+  },
    "NUMBER_212_BLOCK" :{
   "description" : "BLOCK +212 INBOX MASSAGE SENDERS",
   "required" : true,
   "value" :"true"
+  },
+     "SEX_VIDEO_DOWNLOAD" :{
+  "description" : "ALOWD 18+ VIDEO DOWNLOAD",
+  "required" : true,
+  "value" :"false"
   }
   
   },
