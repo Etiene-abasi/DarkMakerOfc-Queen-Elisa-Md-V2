@@ -1,5 +1,5 @@
 <p align="center"> 
-<b>༺═════════[👸]═══════════༻</b>
+<b>༺═════════[👸]══════════༻</b>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/u956kdR.jpeg" width="300" height="300"/>
