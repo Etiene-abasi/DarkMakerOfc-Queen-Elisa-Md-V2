@@ -128,7 +128,7 @@
   "AUTO_BIO" :{
   "description" : "if you want show time and date on your whatsapp bio",
   "required" : true,
-  "value" :"on"
+  "value" :"off"
   },
 
   "INBOX_BLOCK" :{
@@ -140,13 +140,13 @@
   "AUTO_REACT" :{
   "description" : "AUTO REACT SEND [ true / false ]",
   "requred" : true,
-  "value" :"true"
+  "value" :"false"
   },
 
 "ANTI_BADWORD" :{
   "description" : "REMOVE BAD WORD SENDERS [ true / false ]",
   "requred" : true,
-  "value" :"true"
+  "value" :"false"
   },
 
 "BAD_KICK_MASSAGE" :{
@@ -170,24 +170,19 @@
 "BUTTON_1_URL" :{
   "description" : "ENTER YOUR URL BUTTON 1 URL",
   "requred" : false,
-  "value" :"github.com/darkmakerofc"
+  "value" :"https://github.com/darkmakerofc"
   },
 
 "BUTTON_2_URL" :{
   "description" : "ENTER YOUR URL BUTTON 2 URL",
   "requred" : false,
-  "value" :"youtube.com/MRNIMAOFC"
+  "value" :"https://youtube.com/MRNIMAOFC"
   },
 
 "INBOX_BLOCK_MSG" :{
   "description" : "INBOX USER BLOCK MASSAGE",
   "required" : true,
   "value" :"*INBOX BLOCK ACTIVATE BY BOT OWNER*"
-  },
-"BLOCK_CALLERS" :{
-  "description" : "INBOX USER BLOCK CALLS",
-  "required" : true,
-  "value" :"false"
   },
  "SONG_DOWNLOAD" :{
   "description" : "SONG DOWNLOADING MASSAGE",
@@ -207,7 +202,7 @@
    "REMOVE_BG_API" :{
   "description" : "API KEY GET ON removebg.com SITE",
   "required" : true,
-  "value" :"true"
+  "value" :"API KEY GET ON removebg.com SITE"
   },
  "MENU_IMOJI" :{
   "description" : "YOUR MENU AND DESC IMOJI",
