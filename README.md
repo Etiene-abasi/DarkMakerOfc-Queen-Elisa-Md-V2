@@ -27,7 +27,7 @@ A very good bot that you can use in whatsapp.
 
 # 
 
-### [`Try To Deploy Railway`](app.railway.com)
+### [`Try To Deploy Railway`](https://app.railway.com)
 
 
 * 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
