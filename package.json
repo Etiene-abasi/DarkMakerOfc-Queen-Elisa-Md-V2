@@ -81,10 +81,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com.git",
+  "repository": "git+https://github.com.DarkMakerofc/Queen-Elisa-MD-V2git",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/issues"
   },
-  "homepage": "https://github.com/#readme",
+  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2#readme",
   "main": "index.js"
 }
