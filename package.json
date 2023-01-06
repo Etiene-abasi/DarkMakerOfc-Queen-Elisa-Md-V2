@@ -20,7 +20,7 @@
   "author": "MR-NIMA",
   "license": "AGPL-3",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/MR-NIMA-X/Baileys.git",
+    "@adiwajshing/baileys": "^4.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "anime-wallpaper": "^1.0.2",
