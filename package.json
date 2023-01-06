@@ -20,7 +20,7 @@
   "author": "MR-NIMA",
   "license": "AGPL-3",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.0.0",
+    "@adiwajshing/baileys": "git+https://github.com/MR-NIMA-X/Baileys.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "anime-wallpaper": "^1.0.2",
@@ -72,17 +72,19 @@
     "util": "^0.12.4",
     "wa-sticker-formatter": "^4.3.2",
     "xfarr-api": "^1.0.2",
-    "yargs": "^17.2.1"
+    "yargs": "^17.2.1",
+    "youtube-yts": "^2.0.0",
+    "youtubedl-core": "^4.11.2"
   },
   "directories": {
     "lib": "lib",
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com.DarkMakerofc/Queen-Elisa-MD-V2git",
+  "repository": "git+https://github.com.git",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/issues"
+    "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2#readme",
+  "homepage": "https://github.com/#readme",
   "main": "index.js"
 }
