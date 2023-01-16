@@ -74,13 +74,13 @@ global.BUTTON1_URL = 'https://github.com/darkmakerofc/'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://youtube.com/c/MRNIMAOFC'
 //👇 Your Add Massage 
-global.ADD_MSG = ' ' 
+global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = ' ' 
+global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = ' '
+global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
