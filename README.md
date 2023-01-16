@@ -22,13 +22,12 @@
 
 # 
 
+<b>Version --> 3.0.0</b>
+# 
 Queen elisa whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 # 
-
-### [`Try To Deploy Railway`](https://app.railway.com)
-
 
 * 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
 <p align="left">
@@ -57,8 +56,19 @@ A very good bot that you can use in whatsapp.
 # 
 # 
 # 
+#
++ DEPLOY STEPS RAILWAY
 # 
-+  DEPLOY STEPS
+1. Fork This Repository 
+2. Update [settings.js]()
+3. Uplode session.json file
+4. Make acount on [railway.](https://railway.app)
+5. Connect Your Repository to Railway
+6. [Deploy On Railway Watch Video]()
+# 
+# 
+#  
++  DEPLOY STEPS HEROKU 
 # 
 1. Fork this repository 
 2. scan qr code
@@ -74,5 +84,7 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 
 
 
-Thanks For - [tuna](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
+<h1>💗</h1> 
+<b>Thanks For</b> -
 
+ [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
