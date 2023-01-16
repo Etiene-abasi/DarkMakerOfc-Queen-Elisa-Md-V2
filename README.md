@@ -62,7 +62,7 @@ A very good bot that you can use in whatsapp.
 1. Fork This Repository 
 2. Update [settings.js]()
 3. Uplode session.json file
-4. Make acount on [railway.](https://railway.app)
+4. Make acount on [railway](https://railway.app?referralCode=jDDNQq)
 5. Connect Your Repository to Railway
 6. [Deploy On Railway Watch Video]()
 # 
