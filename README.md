@@ -42,7 +42,7 @@ A very good bot that you can use in whatsapp.
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3.mrnima.repl.co)
 
 # 
 
