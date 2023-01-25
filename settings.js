@@ -32,8 +32,6 @@ global.VOICE_REPLY =  'true'
 global.owner = ['94715166712'] 
 //👇 Your Bot Alive Logo ( alive image )
 global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
-//👇 Your Bot Alive Massage 
-global.alive = process.env.ALIVE_MESSAGE || 'default'
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -148,8 +146,8 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-global.thumb = fs.readFileSync('./image/Elisa.jpg')
-global.imgalive = fs.readFileSync('./image/Elisa.jpg')
+global.thumb = fs.readFileSync('./Media/image/Elisa.jpg')
+global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
