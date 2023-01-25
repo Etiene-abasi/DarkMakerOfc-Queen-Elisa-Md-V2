@@ -1,3 +1,0 @@
-{
-   "Bot" : "Queen Elisa By Elisa Team"
-}
