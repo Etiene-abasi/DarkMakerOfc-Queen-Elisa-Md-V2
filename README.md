@@ -22,7 +22,7 @@
 
 # 
 
-<b>Version --> 3.0.0</b>
+<b>Version --> 3.5.0</b>
 # 
 Queen elisa whatsapp bot is,
 A very good bot that you can use in whatsapp.
