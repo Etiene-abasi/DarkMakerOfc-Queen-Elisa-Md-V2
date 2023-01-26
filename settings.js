@@ -30,36 +30,28 @@ global.READ_MASSAGE = 'false'
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
 global.owner = ['94715166712'] 
-//👇 Your Bot Alive Logo ( alive image )
-global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
-global.AUTO_BIO = process.env.AUTO_BIO || 'on'
+global.AUTO_BIO = || 'on'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK = process.env.INBOX_BLOCK || 'off'
+global.INBOX_BLOCK = || 'off'
 //👇 Auto react 
-global.AUTO_REACT = process.env.AUTO_REACT || 'true'
+global.AUTO_REACT = || 'true'
 //👇 Bad word Auto delete ( you must add bad words )
-global.ANTI_BADWORD = process.env.ANTI_BADWORD || 'true'
+global.ANTI_BADWORD = || 'true'
 //👇 Your Bot Name
-global.botnma = process.env.BOT_NAME || '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma = || '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma = process.env.OWNER_NAME || '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma = || '𝑴𝒓 𝑵𝒊𝒎𝒂' 
 //👇 Sticker package name
-global.packname = process.env.STICKER_PACK_NAME || '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname = || '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
 //👇 Sticker Author Name
-global.author = process.env.STICKER_AUTHOR_NAME || '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author = || '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink = process.env.ANTI_LINK || 'true'
-//👇 You Welcome Massage 
-global.WELCOME_MSG = ''
-//👇 You Good Bye Massage 
-global.GOODBYE_MSG = ''
+global.antilink = || 'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
-//👇 Send welcome and goodbye massage 
-global.SEND_WELCOME = 'true'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 global.BAD_KICK_MSG = '*Bad word detect !*'
@@ -112,13 +104,13 @@ global.sp = '🔵'
 
 global.mess = {
     success: '✅ Done!',
-    admin: 'you must be admin to use this cmd!',
-    botAdmin: 'Bot must be admin !',
-    owner: 'This cmd is for Elisa bot owner only',
-    group: 'oooh sorry this cmd is for groups only!',
-    private: 'it can only used in dms!',
-    bot: 'This cmd  its only for the bot host',
-    wait: 'Wait Elisa bot processing ',
+    admin: '*මෙම විධානය බාවිතකර හැක්කේ ඇඩ්මින්ලට පමනි !*',
+    botAdmin: '*කරුනාකර බොට් ඇඩ්මින්කරන්න !*',
+    owner: '*කණගාටුයි , මෙම විධානය අයිතිකරුට පමනි !*',
+    group: '*මෙම විධානය සමූහවල පමණක් බාවිතාකරහැක !*',
+    private: '*මෙම විධානය Inbox පමනක් බාවිතාකර හැක !*',
+    bot: '*මෙම විධානය බොට් නම්බර් එකෙන් පමණක් බාවිතාකර හැක !*',
+    wait: '*♲ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ǫᴜᴇᴇɴ ᴇʟɪsᴀ ɪs ᴘʀᴏssᴇsɪɴɢ ...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
@@ -147,6 +139,7 @@ global.APIKeys = {
 }
 
 global.thumb = fs.readFileSync('./Media/image/Elisa.jpg')
+global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
