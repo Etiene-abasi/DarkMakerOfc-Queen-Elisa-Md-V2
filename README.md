@@ -22,7 +22,7 @@
 
 # 
 
-<b>Version --> 3.5.0</b>
+<b>Version --> 3.3.0</b>
 # 
 Queen elisa whatsapp bot is,
 A very good bot that you can use in whatsapp.
@@ -30,6 +30,7 @@ A very good bot that you can use in whatsapp.
 # 
 
 * 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
+
 <p align="left">
 <a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
 </p align="left">
@@ -46,6 +47,14 @@ A very good bot that you can use in whatsapp.
 
 # 
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=jDDNQq)
+
+[![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/)
+
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+
 * 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
           https://heroku.com/deploy?template=
@@ -57,30 +66,23 @@ A very good bot that you can use in whatsapp.
 # 
 # 
 #
-+ DEPLOY STEPS RAILWAY
++ DEPLOY STEPS
 # 
 1. Fork This Repository 
 2. Update [settings.js]()
 3. Uplode session.json file
-4. Make acount on [railway](https://railway.app?referralCode=jDDNQq)
-5. Connect Your Repository to Railway
-6. [Deploy On Railway Watch Video]()
+4. Make acount on railway , heroku , mogenius or koyeb 
+5. Connect Your Repository to your web host site
+6. [ Watch Video]()
 # 
 # 
-#  
-+  DEPLOY STEPS HEROKU 
 # 
-1. Fork this repository 
-2. scan qr code
-3. uplode qr code your forked repo
-4. make deploy link
-5. deploy using your link 💖
-
 
 THANAKS FOR USNING QUEEN ELISA 💃💖
 
+[🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
 
-[Join Public Group](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+[🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
 
 
 

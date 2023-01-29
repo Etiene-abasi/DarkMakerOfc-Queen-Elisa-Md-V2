@@ -4,10 +4,9 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█   █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█   █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
  
- █▀▀█ ░ █▀▀█ ░ █▀▀█ ░░ █░░▒█
- ░░▀▄ ░ █▄▀█ ░ █▄▀█ ▀▀ ▒█▒█░
- █▄▄█ █ █▄▄█ █ █▄▄█ ░░ ░▀▄▀░
- 
+ █▀▀█ ░ █▀▀█ ░ █▀▀█   ░░   █░░▒█
+ ░░▀▄ ░ ░░▀▄ ░ █▄▀█   ▀▀   ▒█▒█░
+ █▄▄█ █ █▄▄█ █ █▄▄█   ░░   ░▀▄▀░ 
  𝑶𝒘𝒏𝒆𝒓 : 𝑴𝒓 𝑵𝒊𝒎𝒂
  𝑯𝒆𝒍𝒑𝒆𝒓𝒔 : 
  • 𝑷𝒂𝒔𝒊𝒅𝒖
@@ -35,7 +34,7 @@ global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴�
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'off'
+global.INBOX_BLOCK =  'on'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
@@ -49,7 +48,7 @@ global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔'
 //👇 Sticker Author Name
 global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'true'
+global.antilink =  'false'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -83,6 +82,24 @@ global.REMOVE_BG_API = ''
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
 global.LANG = 'EN'
+//Alive logo
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+//👇 Alive message
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
+//👇 Welcome Mesaage
+global.WELCOME = process.env.WELCOME || ``
+//👇 welcome image 
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+//👇 Goodbye message 
+global.GOODBYE = process.env.GOODBYE || ``
+//👇 Good bye image
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
+//👇 Send Welcome ( true or false )
+global.SEND_WELCOME = process.env.SEND_WELCOME || false
+//👇 Send block command message (true or false )
+global.BLOCK_CMD_MESSAGE_SEND = false
+//👇 Desable PM Block
+global.NO_BLOCK = ["94715166712","94719574492"]
 
 
 
@@ -98,20 +115,28 @@ global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම
 global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','/',''] 
+global.prefix = ['#','!','.'] 
 global.sp = '🔵'
 
 
 global.mess = {
     success: '✅ Done!',
-    admin: '*මෙම විධානය බාවිතකර හැක්කේ ඇඩ්මින්ලට පමනි !*',
-    botAdmin: '*කරුනාකර බොට් ඇඩ්මින්කරන්න !*',
-    owner: '*කණගාටුයි , මෙම විධානය අයිතිකරුට පමනි !*',
-    group: '*මෙම විධානය සමූහවල පමණක් බාවිතාකරහැක !*',
-    private: '*මෙම විධානය Inbox පමනක් බාවිතාකර හැක !*',
-    bot: '*මෙම විධානය බොට් නම්බර් එකෙන් පමණක් බාවිතාකර හැක !*',
-    wait: '*♲ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ǫᴜᴇᴇɴ ᴇʟɪsᴀ ɪs ᴘʀᴏssᴇsɪɴɢ ...*',
+    admin: '*Only admins can use this command !*',
+    botAdmin: '*Please admin the bot first !*',
+    owner: '*Sorry, this command is only for the owner !*',
+    group: '*This command can only be used in groups !*',
+    private: '*This command can only be used in Inbox !*',
+    bot: '*This command can only be used by bot number !*',
+    wait: '*♲ Please Wait ...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
+    BLOCK : '',
+    UNBLOCK : '',
+    KICK : '',
+    ADD : '',
+    LEAVE : '',
+    PROMOTE : '',
+    DEMOTE : ''
 }
 global.limitawal = {
     premium: "Infinity", 
