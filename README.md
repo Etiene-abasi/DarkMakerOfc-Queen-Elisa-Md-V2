@@ -49,9 +49,9 @@ A very good bot that you can use in whatsapp.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=jDDNQq)
 
-[![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/)
+[`Deploy on Koyeb`](https://app.koyeb.com/)
 
-[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/)
+[`Deploy on Mogenius`](https://studio.mogenius.com/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
