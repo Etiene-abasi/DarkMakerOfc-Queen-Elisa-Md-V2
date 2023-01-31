@@ -45,8 +45,9 @@ A very good bot that you can use in whatsapp.
 
 * [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3.mrnima.repl.co)
 * [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3-2nd-Qr-Scaner.mrnima.repl.co/)
-* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3-3rdnd-Qr-Scaner.mrnima.repl.co/)
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/Queen-V230#index.js)
 
+  if there any error please infrom it support group ✨
 # 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=jDDNQq)
