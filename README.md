@@ -1,8 +1,8 @@
 <p align="center"> 
-<b>༺═════════[👸]══════════༻</b>
+<u>【💃:♥️】An  Whatsapp  User  Bot  By  Mr  Nima 【💃:♥️】</u>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/u956kdR.jpeg" width="300" height="300"/>
+<img src="https://telegra.ph/file/ffdb2c3cfba2016eb4e17.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
@@ -22,10 +22,12 @@
 
 # 
 
-<b>Version --> 3.3.0</b>
+### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/DarkMakerofc)
+<b>Version --> 3.3.3</b>
 # 
 Queen elisa whatsapp bot is,
-A very good bot that you can use in whatsapp.
+
+      Queen elisa whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 
@@ -47,23 +49,23 @@ A very good bot that you can use in whatsapp.
 * [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3-2nd-Qr-Scaner.mrnima.repl.co/)
 * [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/Queen-V230#index.js)
 
-  if there any error please infrom it support group ✨
+      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=jDDNQq)
+[Deploy on Railway](https://railway.app?referralCode=jDDNQq)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[`Deploy on heroku`](https://heroku.com/deploy?template=)
 
-* 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
-       
-          https://heroku.com/deploy?template=
+[`Deploy on Replit`](https://replit.com)
+
+[`Deploy on Uffizzi`](https://www.uffizzi.com/)
 
 
-## [`WATCH YOUTUBE VIDEO`](youtube.com/MRNIMAOFC)
+## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
 
 # 
 # 
@@ -74,7 +76,7 @@ A very good bot that you can use in whatsapp.
 1. Fork This Repository 
 2. Update [settings.js]()
 3. Uplode session.json file
-4. Make acount on railway , heroku , mogenius or koyeb 
+4. Make acount on your host
 5. Connect Your Repository to your web host site
 6. [ Watch Video]()
 # 
@@ -83,10 +85,12 @@ A very good bot that you can use in whatsapp.
 
 THANAKS FOR USNING QUEEN ELISA 💃💖
 
-[🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
+* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
 
-[🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
 
+     
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
 
 <h1>💗</h1> 
