@@ -95,6 +95,7 @@ pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/DarkMakerofc/Queen-Elisa-Md-V2
 cd Queen-Elisa-Md-V2
+npm install
 npm start
 ```
 
