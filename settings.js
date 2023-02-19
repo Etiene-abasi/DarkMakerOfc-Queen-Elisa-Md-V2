@@ -94,7 +94,7 @@ global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
 global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `default`
 //👇 Desable PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 global.S_CAP = ''
