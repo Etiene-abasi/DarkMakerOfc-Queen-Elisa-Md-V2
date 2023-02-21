@@ -1,0 +1,25 @@
+{
+  "name": "QUEEN ELISA BOT 3.3.3 V",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2",
+  "logo": "https://telegra.ph/file/30e4c947775ac2a0d2897.jpg",
+  "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
+  
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
