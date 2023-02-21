@@ -1,5 +1,5 @@
 <p align="center"> 
-<u>【💃:♥️】An  Whatsapp  User  Bot  By  Mr  Nima 【💃:♥️】</u>
+<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/ffdb2c3cfba2016eb4e17.jpg" width="300" height="300"/>
@@ -52,13 +52,13 @@ Queen elisa whatsapp bot is,
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
 
-[Deploy on Railway](https://railway.app?referralCode=jDDNQq)
+[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
 
 [`Deploy on Replit`](https://replit.com)
 
