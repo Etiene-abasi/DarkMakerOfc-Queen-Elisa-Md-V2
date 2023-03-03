@@ -98,7 +98,18 @@ cd Queen-Elisa-Md-V2
 npm install
 npm start
 ```
-
+<details>
+<summary>✅ New Updates</summary>
+<p>
+</details>
+<details>
+<summary>ℹ️ How To Update </summary>
+<p>
+</details>
+<details>
+<summary>🌐 Support For Deploy </summary>
+<p>
+</details>
 THANAKS FOR USNING QUEEN ELISA 💃💖
 
 * [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
