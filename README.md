@@ -100,6 +100,63 @@ npm start
 ```
 <details>
 <summary>✅ New Updates</summary>
+
+
+## 🆕 New additions 🆕
+
+➕ New Tiktok Downloader ( Wm / No Wm / audio )
+
+➕ New Fb Downloader (Add list message : SD / HD )
+
+➕ OpenAi ( ChatGPT )
+
+➕ True Caller ( Mobile Number details fetcher )
+
+➕ Add New Tag Option ( tag any messages in groups : video / audio / document / stickers / images )
+
+➕ Add New Bot Status Fetcher ( Runtime / ramusage / platform / speed etc )
+
+➕ New Movie Details Fetcher ( Not a Downloader )
+
+➕ Block any word on image downloader ( You must add words )
+
+➕ User Status Downloader ( Download status video or image using bot )
+
+➕ Reqested status sender ( Requested status send for requester )
+
+➕ Add TagAdmin 
+
+➕ Only Prefix mod ( can turn off /  on it )
+
+➕ Uplode 100MB + Videos (  if you use this you must have paid host sever )
+
+
+## 🛠️  FIX  🛠️
+
+✔️ Image downloader
+
+✔️ Google search
+
+✔️ Mediafire Downloader
+
+✔️ Ssweb 
+
+✔️ Pemoji 
+
+✔️ Sticker maker
+
+
+✔️ to image / Gif / mp4 / mp3 / voice Converter
+
+✔️ Add command error
+
+✔️ Apk Downloader
+
+✔️ Text to voice converter
+
+✔️ Hide tag / tag
+
+
 <p>
 </details>
 <details>
