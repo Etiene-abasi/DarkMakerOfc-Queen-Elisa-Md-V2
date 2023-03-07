@@ -81,7 +81,8 @@
     "yargs": "^17.2.1",
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.2",
-    "figlet" : "^1.5.2"
+    "figlet" : "^1.5.2",
+    "cfonts" : "^3.1.1"
   },
   "directories": {
     "lib": "lib",
