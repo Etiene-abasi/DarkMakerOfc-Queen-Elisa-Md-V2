@@ -23,7 +23,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/DarkMakerofc)
-<b>Version --> 3.3.3</b>
+<b>Version --> 3.3.5</b>
 # 
 Queen elisa whatsapp bot is,
 
