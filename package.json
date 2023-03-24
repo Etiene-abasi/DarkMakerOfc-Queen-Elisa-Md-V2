@@ -20,7 +20,7 @@
   "author": "MR-NIMA",
   "license": "AGPL-3",
   "dependencies": {
-    "@adiwajshing/baileys": "hostinger-bot/baileys",
+    "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
