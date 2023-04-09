@@ -24,7 +24,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/DarkMakerofc)
-<b>Version --> 3.3.5</b>
+<b>Version : 3.8.5</b>
 # 
 Queen elisa whatsapp bot is,
 
@@ -49,6 +49,7 @@ Queen elisa whatsapp bot is,
 <details>
 <summary> 🪄 Deploy Methods ( Click to get deploy methods ) </summary>
 
+# 
 
 [`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
 
@@ -63,6 +64,8 @@ Queen elisa whatsapp bot is,
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 <p>
 </details>
+
+# 
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
 
