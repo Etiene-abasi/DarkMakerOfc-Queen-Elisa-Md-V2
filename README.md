@@ -3,10 +3,10 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/ffdb2c3cfba2016eb4e17.jpg" width="300" height="300"/>
+<img src="https://i.ibb.co/p1C6wWR/queen-elisa-3-8-5-new-logo.png" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
@@ -24,13 +24,20 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/DarkMakerofc)
-<b>Version : 3.8.5</b>
+<b>Version --> 3.8.5</b>
 # 
 Queen elisa whatsapp bot is,
 
       Queen elisa whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
+
+* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
+
+<p align="left">
+<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
+</p align="left">
+
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
@@ -39,17 +46,14 @@ Queen elisa whatsapp bot is,
 
 # 
 
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3.mrnima.repl.co)
-* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3-2nd-Qr-Scaner.mrnima.repl.co/)
-* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/Queen-V230#index.js)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
 
 <details>
-<summary> 🪄 Deploy Methods ( Click to get deploy methods ) </summary>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
-# 
 
 [`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
 
@@ -57,15 +61,12 @@ Queen elisa whatsapp bot is,
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
 
 [`Deploy on Replit`](https://replit.com)
 
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
-<p>
 </details>
-
-# 
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
 
@@ -77,7 +78,7 @@ Queen elisa whatsapp bot is,
 # 
 1. Fork This Repository 
 2. Update [settings.js]()
-3. Uplode session.json file
+3. Uplode creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
 6. [ Watch Video]()
@@ -106,59 +107,7 @@ npm start
 
 ## 🆕 New additions 🆕
 
-➕ New Tiktok Downloader ( Wm / No Wm / audio )
-
-➕ New Fb Downloader (Add list message : SD / HD )
-
-➕ OpenAi ( ChatGPT )
-
-➕ True Caller ( Mobile Number details fetcher )
-
-➕ Add New Tag Option ( tag any messages in groups : video / audio / document / stickers / images )
-
-➕ Add New Bot Status Fetcher ( Runtime / ramusage / platform / speed etc )
-
-➕ New Movie Details Fetcher ( Not a Downloader )
-
-➕ Block any word on image downloader ( You must add words )
-
-➕ User Status Downloader ( Download status video or image using bot )
-
-➕ Reqested status sender ( Requested status send for requester )
-
-➕ Add TagAdmin 
-
-➕ Only Prefix mod ( can turn off /  on it )
-
-➕ Uplode 100MB + Videos (  if you use this you must have paid host sever )
-
-
-## 🛠️  FIX  🛠️
-
-✔️ Image downloader
-
-✔️ Google search
-
-✔️ Mediafire Downloader
-
-✔️ Ssweb 
-
-✔️ Pemoji 
-
-✔️ Sticker maker
-
-
-✔️ to image / Gif / mp4 / mp3 / voice Converter
-
-✔️ Add command error
-
-✔️ Apk Downloader
-
-✔️ Text to voice converter
-
-✔️ Hide tag / tag
-
-
+ 
 <p>
 </details>
 <details>
