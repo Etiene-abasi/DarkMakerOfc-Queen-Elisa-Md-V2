@@ -3,7 +3,7 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/p1C6wWR/queen-elisa-3-8-5-new-logo.png" width="300" height="300"/>
+<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
@@ -28,15 +28,7 @@
 # 
 Queen elisa whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
-
-# 
-
-* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
-
-<p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
-</p align="left">
+      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -69,9 +61,21 @@ Queen elisa whatsapp bot is,
 </details>
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
-
-# 
-# 
+  
+ * Deploy on Heroku Video ⇓
+ <p align="left">
+<a href="https://youtube.com/mrnimaofc"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+* Deploy on Railway Video ⇓
+ <p align="left">
+<a href="https://youtube.com/mrnimaofc"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+* Deploy on Replit Video ⇓
+ <p align="left">
+<a href="https://youtube.com/mrnimaofc"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+   
+   
 # 
 #
 + DEPLOY STEPS
@@ -81,7 +85,7 @@ Queen elisa whatsapp bot is,
 3. Uplode creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
-6. [ Watch Video]()
+6. [Watch Videos](http://youtube.com/mrnimaofc)
 # 
 # 
 ### [ DEPLY ON TERMUX ]
@@ -127,8 +131,11 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
+  
+  #### ```TOTAL PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
+ [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/darkalphaxteam) and [isuru]() thanks for helps 💖
