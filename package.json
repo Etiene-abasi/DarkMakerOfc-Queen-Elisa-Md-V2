@@ -1,6 +1,6 @@
 {
   "name": "QUEEN-ELISA-MD",
-  "version": "3.8.5",
+  "version": "3.8.6",
   "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
@@ -20,10 +20,10 @@
   "author": "MR-NIMA",
   "license": "AGPL-3",
   "dependencies": {
-    "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^9.0.0",
+    "@whiskeysockets/baileys" : "^6.0.1",
     "@ffmpeg-installer/ffmpeg" : "^1.1.0",
     "anime-wallpaper": "^1.0.2",
     "awesome-phonenumber": "^2.64.0",
