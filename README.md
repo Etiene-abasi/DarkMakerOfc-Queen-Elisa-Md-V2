@@ -24,7 +24,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/DarkMakerofc)
-<b>Version --> 3.8.5</b>
+<b>Version --> 3.8.6</b>
 # 
 Queen elisa whatsapp bot is,
 
@@ -110,9 +110,15 @@ npm start
 <details>
 <summary>✅ New Updates</summary>
 
+  
+  ◉ Fix .ai Command
+  
+  ◉ Fix Auto ai 
+  
+  ◉ Fix Apk Download 
 
 ## 🆕 New additions 🆕
-
+ ◉ Add New Instagram Downloader ( .ig )
  
 <p>
 </details>
