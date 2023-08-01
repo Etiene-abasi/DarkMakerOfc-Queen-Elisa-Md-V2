@@ -53,7 +53,6 @@
     "mal-scraper": "^2.11.4",
     "moment-timezone": "^0.5.34",
     "mongoose": "^6.2.1",
-    "mumaker": "^1.0.0",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
     "node-id3": "^0.2.3",
