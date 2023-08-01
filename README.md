@@ -24,7 +24,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DarkMakerofc)
-<b>Version --> 3.9.0</b>
+<b>Version --> 3.9.5</b>
 # 
 Queen elisa whatsapp bot is,
 
@@ -111,11 +111,8 @@ npm start
 <summary>✅ New Updates</summary>
 
   
-  ◉ Add Auto Status Seen
-  
-  ◉ Add global.SEND_GOODBYE
-  
-  ◉ Fix Youtube Video Not Download Error
+  ◉ Fix Downloaders ( fb , insta , tiktok )
+  ◉ Fix Logo error
 
 
 <p>
