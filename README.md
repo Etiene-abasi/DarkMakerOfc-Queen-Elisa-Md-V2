@@ -110,9 +110,7 @@ npm start
 <details>
 <summary>✅ New Updates</summary>
 
-  
-  ◉ Fix Downloaders ( fb , insta , tiktok )
-  ◉ Fix Logo error
+• Fix Youtube video and song not download error. 
 
 
 <p>
